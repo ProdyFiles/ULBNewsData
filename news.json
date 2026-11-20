@@ -8,6 +8,10 @@
         {
           "type": "text",
           "content": "АХУЕТЬ ВАНЕК СЕГОДНЯ ОТКИС НА ЭСВЭОУ"
+        },
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/ProdyFiles/ULBNewsData/main/images/test.png"
         }
       ]
     }
